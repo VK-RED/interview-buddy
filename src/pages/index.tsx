@@ -13,7 +13,7 @@ export default function Interview(){
                     <div className="my-3">
 
                         <Link href="/interview">
-                            <button className="h-auto w-auto px-2 py-3 bg-white text-black font-semibold rounded-full">Let's Get Started</button>
+                            <button className="h-auto w-auto px-2 py-3 bg-white text-black font-semibold rounded-full px-10">Let's Get Started</button>
                         </Link>
                         
                     </div>
